@@ -1,6 +1,7 @@
 # 3DMP
-
-## Colt_1911 is downloaded from thingiverse and colt_1911 Remixed is what i transformed it to
+## Homework1 is in the other brench!
+## Homework2:   
+### Colt_1911 is downloaded from thingiverse and colt_1911 Remixed is what i transformed it to
 
 3DMP -  Homework 2
 Soft deadline: 07.03.2021 | 23:59:59
