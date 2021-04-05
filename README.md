@@ -1,4 +1,10 @@
-# 3DMP
+# IMPORTANT: I RECREATED THE 3D MODELING REPO, HER IS THE NEW ONE : 
+# THIS OLD REPO CONTAIN THE OLD HOMEWORKS AS  A PROOF THAT I UPLOADED THEM IN TIME 
+## !
+## !
+## !
+## ! 
+## !
 ## Homework1 is in the other brench!
 ## Homework2:   
 ### Colt_1911 is downloaded from thingiverse and colt_1911 Remixed is what i transformed it to
